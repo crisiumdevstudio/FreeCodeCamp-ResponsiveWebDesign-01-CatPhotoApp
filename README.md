@@ -2,6 +2,8 @@
 
 Salve amici del canale questa playlist dedicata all'acquisizione di certificazioni informatiche con @freecodecamp tutto completamente in italiano.
 
+Link alla playlist Youtube: https://www.youtube.com/playlist?list=PLTG9GoEdGywDp0cP_22omDvyLzu86AKVu
+
 Voglio sottolineare che questi video NON sono corsi ufficiali di FreeCodeCamp e vi invito fortemente ad iscrivervi al canale YT @freecodecamp e al portale https://freecodecamp.org.
 
 Questa playlist e questa serie di corsi nascono dall’insistenza dei miei amici e clienti, che mi hanno chiesto di creare corsi di programmazione su YouTube a supporto della formazione in presenza.
@@ -41,15 +43,3 @@ Mentre se il video non ti è piaciuto dimmi perché e aiutami a migliorare.
 Grazie ancora,
 Vincenzo (Crisium)
 
-/* Social: 
-**********/
-// Youtube: https://www.youtube.com/@crisiumdevstudio
-// Pagina FB: https://www.facebook.com/profile.php?id=100090480910808
-// Facebook: https://www.facebook.com/crisiumdevstudio/
-// Twitter: https://twitter.com/VincenzoArgese
-// LinkedIn: https://www.linkedin.com/in/vincenzoargese/
-// Reddit: https://www.reddit.com/r/crisiumdevstudio/
-// Github: https://github.com/vincenzoargesedevstudio
-// Personal Github: https://github.com/vincenzoargese
-
-// Video soundtrack - Nord (Loopable).wav from www.gamedev.tv - Assets - Ultimate Music Bundle by Sidearm Studios
