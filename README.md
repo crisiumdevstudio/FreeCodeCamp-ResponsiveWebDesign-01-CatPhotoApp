@@ -17,6 +17,9 @@ Risorse e link di riferimento:
 FreeCodeCamp:
 https://www.freecodecamp.org/
 
+FreeCodeCamp - Code with Ania Kubów @AniaKubow:
+https://youtu.be/GDGejH3SDNQ
+
 Mozilla Developer:
 https://developer.mozilla.org/en-US/docs/Learn/HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML
